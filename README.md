@@ -81,6 +81,8 @@ plt.show()
 
 
 ### Tabulation
+<img width="1280" height="687" alt="image" src="https://github.com/user-attachments/assets/c45b157f-b4c7-4b5c-af04-eefda8c9811b" />
+
 
 
 ### Output
